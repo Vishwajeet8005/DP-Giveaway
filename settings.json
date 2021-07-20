@@ -1,0 +1,11 @@
+{
+    "bot": {
+      
+        "prefix": "!"
+    },
+    "status": {
+        "name": "Making Giveaways for WX_Esports",
+        "type": "PLAYING",
+        "status": "online"
+    }
+}
